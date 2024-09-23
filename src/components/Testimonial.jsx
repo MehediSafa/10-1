@@ -1,5 +1,5 @@
 import React from 'react'
-import jenny from '../assets/jenny.png'
+import jenny from '../assets/Jenny.png'
 
 const Testimonial = () => {
   return (
