@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaArrowRightLong } from "react-icons/fa6";
 import project from '../assets/project.png'
-import card from '../assets/card.png'
+import card from '../assets/Card.png'
 const Projects = () => {
     return (
         <section id='projects' className=''>
