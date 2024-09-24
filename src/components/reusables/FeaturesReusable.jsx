@@ -2,7 +2,7 @@ import React from 'react'
 
 const FeaturesReusable = ({img,title,para}) => {
   return (
-    <div className='bg-white lg:h-[320px] h-[250px]  '>
+    <div className='bg-white lg:h-[340px] h-[250px]  '>
       <div className='flex lg:flex-row flex-col lg:justify-start justify-center items-center'>
       <img className='lg:pt-[58px] pt-[20px] lg:ps-[48px] lg:pb-[22px] pb-[20px]' src={img} alt="" />
       </div>
