@@ -9,7 +9,7 @@ const WorkReusable = ({title,img,para}) => {
         </div>
         <div>
         <h2 className='font-pops font-medium lg:text-[32px] text-[14px] text-[#282938] pb-[8px]'>{title}</h2>
-        <p className='font-pops font-medium lg:text-[16px] text-[12px] text-[#282938] '>{para}</p>
+        <p className='font-pops font-medium lg:text-[16px] text-[12px] text-[#282938] pb-[20px]'>{para}</p>
         </div>
      </div>
   )
